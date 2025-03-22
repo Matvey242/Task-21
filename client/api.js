@@ -1,1 +1,1 @@
-export const SERVER_URL = 'https://task-21-x86r.onrender.com'
+export const SERVER_URL = 'https://task21-142k.onrender.com'
